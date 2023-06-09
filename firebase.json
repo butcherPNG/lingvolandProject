@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "linguasphere",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
